@@ -87,6 +87,6 @@
 *Примечание: GitHub не отображает PDF напрямую в Markdown. Рекомендуется конвертировать их в PNG или JPG для вставки изображений, либо оставить просто ссылки на PDF-файлы.*
 
 *   **График 1:** Распределение эмбеддингов только для размеченного train-датасета.
-    *   [Ссылка на `original_data.pdf`](./graphs/original_data.pdf)
-    *   ![Визуализация исходных данных](./graphs/original_data.png)
+    *   [Ссылка на `original_data.pdf`](/grapichs/original_data.pdf)
+    *   ![Визуализация исходных данных](/grapichs/original_data.png)
 
